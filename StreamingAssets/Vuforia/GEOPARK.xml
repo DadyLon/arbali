@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Belandingan" size="1.000000 1.000000" />
+    <ImageTarget name="Bayung-Gede" size="1.000000 1.000000" />
+    <ImageTarget name="kosala" size="1.000000 1.000000" />
+    <ImageTarget name="Bali-aga" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
